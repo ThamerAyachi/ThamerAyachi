@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thamerayachi&label=Profile%20views&color=0e75b6&style=flat" alt="thamerayachi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thamerayachi" alt="thamerayachi" /></a> </p>
-
 - 🌱 I’m currently learning **everything 🤣**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThamerAyachi?tab=repositories](https://github.com/ThamerAyachi?tab=repositories)
