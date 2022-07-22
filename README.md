@@ -1,4 +1,4 @@
-[![MasterHead](https://www.adcisolutions.com/sites/default/files/styles/scale_2400x1400/public/2019-01/1920_700_Vue.png?itok=HgIestRT)](http://ayachip.eb2a.com)
+[![MasterHead](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)](http://ayachip.eb2a.com)
 
 <h1 align="center">Hi 👋, I'm Thamer aka Rasputin</h1>
 <h3 align="center">A passionate software developer from Tunisia</h3>
