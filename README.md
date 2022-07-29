@@ -26,4 +26,5 @@
 <span>
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=thamerayachi&show_icons=true&locale=en" alt="thamerayachi" />
   <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=thamerayachi&" alt="thamerayachi" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamerayachi&show_icons=true&locale=en&layout=compact" alt="thamerayachi" /></p>
 </span>
