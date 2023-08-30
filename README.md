@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)](http://ayachip.eb2a.com)
 
-<h1 align="center">Hi 👋, I'm Thamer aka Rasputin</h1>
+<h1 align="center">Hi 👋, I'm Thamer Ayachi</h1>
 <h3 align="center">A software engineering student from Tunisia</h3>
 
 <img align="right" alt="coding" width="400" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" />
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 💬 Ask me about **Vue js**
+- 💬 Ask me about **Web development**
 
-- 📫 How to reach me **ThamerAyachi@protonmail.com**
+- 📫 How to reach me **Thamer.Ayachi@holbertonstudents.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
